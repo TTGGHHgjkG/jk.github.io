@@ -672,7 +672,7 @@ progress {
 
 .ucapan {
     color: black;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-bottom: -10px;
     font-size: 40px;
     font-weight: 300;
@@ -682,12 +682,11 @@ progress {
     font-weight: bold;
 }
 .text-desc {
-     margin-top: 15px;
+     margin-top: 20px;
      margin-bottom: 20px;
      color: #1d1e22;
      line-height: 1.2;
      font-weight: 400;
-     margin-top: -5px;
      font-size: 14px;
      font-family: 'Open Sans';
 }
