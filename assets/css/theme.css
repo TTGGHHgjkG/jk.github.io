@@ -693,6 +693,7 @@ progress {
 }
 .badge-web {
      background-color: rgba(109, 98, 253, 0.1);
+     margin-bottom: -50px;
      color: #6d12fd;/*#007BFF */
      padding: 5px 10px;
      border-radius: 5px;
@@ -724,10 +725,11 @@ progress {
      }
      .badge-web {
      background-color: rgba(109, 98, 253, 0.1);
+     margin-bottom: -50px;
      color: #6d12fd;
      padding: 5px 10px;
      border-radius: 5px;
-     font-size: 20px;
+     font-size: 16px;
      font-weight: 500;
      text-decoration: none;
      }
