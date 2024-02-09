@@ -676,7 +676,6 @@ progress {
     margin-bottom: -10px;
     font-size: 40px;
     font-weight: 300;
-    font-family: 'Poppins';
 }
 .title-bot {
     font-size: 35px;
@@ -690,7 +689,6 @@ progress {
      font-weight: 500;
      margin-top: -5px;
      font-size: 22px;
-     font-family: 'Poppins';
 }
 .text-2 {
      margin-top: 15px;
@@ -732,7 +730,6 @@ progress {
      font-weight: 500;
      margin-top: -5px;
      font-size: 25px;
-     font-family: 'Poppins';
      }
      .text-2 {
      margin-top: 15px;
@@ -741,15 +738,15 @@ progress {
      line-height: 1.2;
      font-weight: 400;
      margin-top: -5px;
-     font-size: 19px;
-     font-family: 'Poppins';
+     font-size: 15px;
+     font-family: 'Open Sans';
      }
      .badge-web {
+     margin-bottom: 50px;
      background-color: rgba(109, 98, 253, 0.1);
      color: #6d12fd;
      padding: 5px 10px;
      border-radius: 5px;
-     font-family: 'Poppins';
      font-weight: 500;
      }
 }
