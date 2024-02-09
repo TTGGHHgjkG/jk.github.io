@@ -700,14 +700,13 @@ progress {
      font-weight: 400;
      margin-top: -5px;
      font-size: 14px;
-     font-family: 'Poppins';
+     font-family: 'Open Sans';
 }
 .badge-web {
      background-color: rgba(109, 98, 253, 0.1);
      color: #6d12fd;/*#007BFF */
      padding: 5px 10px;
      border-radius: 5px;
-     font-family: 'Poppins';
      font-weight: 500;
 }
 
