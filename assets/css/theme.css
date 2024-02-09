@@ -670,6 +670,10 @@ progress {
   }
 }
 
+link[rel="icon"] {
+    border-radius: 10px;
+}
+
 .ucapan {
     color: black;
     margin-top: 15px;
