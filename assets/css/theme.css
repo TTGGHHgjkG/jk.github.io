@@ -710,15 +710,14 @@ progress {
 
 @media (min-width: 768px) {
     .ucapan {
-    color: #FF0000;
-    margin-bottom: 20px;
+    color: black;
     margin-top: 20px;
-    font-size: 23px;
-    font-weight: 700;
-    font-family: 'Poppins', sans-serif;
+    margin-bottom: -10px;
+    font-size: 50px;
+    font-weight: 300;
     }
     .title-bot {
-    font-size: 35px;
+    font-size: 60px;
     font-weight: bold;
     }
     .text-1 {
@@ -742,11 +741,11 @@ progress {
      font-family: 'Open Sans';
      }
      .badge-web {
-     margin-bottom: 50px;
      background-color: rgba(109, 98, 253, 0.1);
      color: #6d12fd;
      padding: 5px 10px;
      border-radius: 5px;
+     font-size: 20px;
      font-weight: 500;
      }
 }
